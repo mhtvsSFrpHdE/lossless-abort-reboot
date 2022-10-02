@@ -6,3 +6,4 @@ cpptools/
 
 # Visual Studio user data
 .vs/
+/env.bat
