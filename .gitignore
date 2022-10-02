@@ -1,9 +1,18 @@
-# CMake build
+# CMake: Visual Studio Code
+
+# IDE environment
+/env.bat
+
+# Build
 build/
 
-# VSCode extension data
+# C++ extension data
 cpptools/
 
-# Visual Studio user data
+# CMake: Visual Studio
+
+# Build
+/out
+
+# User data
 .vs/
-/env.bat

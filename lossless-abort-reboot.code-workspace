@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.insertFinalNewline": true,
+		"C_Cpp.autoAddFileAssociations": false,
+		"files.associations": {},
+		"C_Cpp.intelliSenseCachePath": "${workspaceFolder}\\cpptools\\intelliSenseCachePath\\dummy",
+		"C_Cpp.intelliSenseCacheSize": 0
+	}
+}
