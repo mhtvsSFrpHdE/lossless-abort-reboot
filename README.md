@@ -7,8 +7,7 @@ Cancel, abort, and block unwanted reboots, without losing the running process.
 ### Start
 
 Download the `LosslessAbortReboot.exe` and run it at startup.  
-x86 is recommended because the program is just called a few Windows APIs.  
-There is no performance or memory cap.  
+Do not use x86 exe on x64 system, it's not work.  
 You can type `shell:startup` in the explorer address bar,  
 and create a shortcut in this folder to run exe on startup.
 
