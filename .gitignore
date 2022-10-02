@@ -1,0 +1,8 @@
+# CMake build
+build/
+
+# VSCode extension data
+cpptools/
+
+# Visual Studio user data
+.vs/
